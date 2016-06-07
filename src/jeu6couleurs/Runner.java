@@ -9,5 +9,6 @@ public class Runner {
 		Board board = new HexagonBoard(10);
 		board.jeu(0, 3, 2);
 //		board.jeu(3);
+		System.out.println("test");
 	}
 }
